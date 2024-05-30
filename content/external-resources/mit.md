@@ -1,10 +1,10 @@
 ---
 backup_url: ''
 content_type: external-resource
-external_url: http://google.com/accounts/umar
+external_url: https://ocw.mit.edu/url/404
 has_external_license_warning: false
-is_broken: true
+is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-title: url
-uid: 92ec81a6-6d38-42ef-b60c-027d42d328cc
+title: mit
+uid: 2b317dc3-382d-43f4-8e0e-697c81e17c24
 ---
